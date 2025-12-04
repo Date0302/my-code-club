@@ -1,0 +1,25 @@
+import java.util.Scanner;
+    class Circle{
+        double radius;
+        void setRadius (double r){
+                            radius=r;
+                        }
+       void getRadius( ){
+                           System.out.println("the radius is: "+radius);
+                       }
+       void getGirth( ){
+                           System.out.println("the area is: "+2*radius*3.14);
+                       }
+       void getArea( ) {
+                           System.out.println("the area is: "+radius*radius*3.14);
+                       }
+   };
+   public class Example3_2{
+       public static void main(String[] args) {
+                           Circle c = new Circle( );
+                           c.setRadius (3);
+                           c.getRadius ( );
+                           c.getGirth ( );
+                           c.getArea ( );
+                       }
+   }
