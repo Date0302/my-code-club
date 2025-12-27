@@ -13,7 +13,7 @@ This repository hosts my self-developed code to meet various needs. It mainly in
 
  Java project examples  
 
-C project examples  
+C++ project examples  
 
  AWS-related projects and examples  
 
@@ -26,7 +26,7 @@ Main folders and files in this repository:
 AWS Project/
 Java code/
 Python code/
-C Code/
+C++ code/
 LICENSE
 SECURITY.md
 README.md
@@ -73,7 +73,7 @@ Python 实现的实用代码
 
  Java 项目示例
 
-C 项目示例
+C++ 项目示例
 
  AWS 项目与部署示例
 
@@ -86,7 +86,7 @@ C 项目示例
 AWS Project/ # AWS 项目相关
 Java code/ # Java 示例代码
 Python code/ # Python 示例代码
-C Code/#C示例代码
+C++ code/#C示例代码
 LICENSE # 开源许可证
 SECURITY.md # 安全策略
 README.md
@@ -114,5 +114,6 @@ cd my-projects-lab
 非常感谢你的帮助 ❤️
 
 ## 📄 许可证
+
 
 本项目使用 **MIT License** 开源协议，详情见 LICENSE 文件。 ([GitHub](https://github.com/Date0302/my-projects-lab))
